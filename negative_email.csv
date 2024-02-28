@@ -1,0 +1,13 @@
+email
+"john.doe+spam@example.com",
+123,
+"john.doe",
+"john.doe@",
+"@example.com",
+"john.doe@example",
+"john.doe.example.com",
+"john.doe@.com"
+"john.doe@example."
+"john.doe@example..com",
+"john.doe@example.com.",
+""
